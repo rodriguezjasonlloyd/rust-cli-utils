@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "echo_copy"
+name = "rust-cli-utils"
 version = "0.1.0"
